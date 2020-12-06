@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "8ball": "^1.0.6",
+    "discord.js": "^12.5.1"
+  }
+}
